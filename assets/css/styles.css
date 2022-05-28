@@ -11,3 +11,10 @@ h1 {
   color: red;
   margin-bottom: 3rem;
 }
+.Logo {
+  display: flex;
+  justify-content: center;
+}
+.img {
+  margin-top: 20px;
+}
