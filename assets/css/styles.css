@@ -8,13 +8,16 @@ h1 {
   margin: 0 auto;
   font-size: 60px;
   text-align: center;
-  color: red;
+  color: brown;
   margin-bottom: 3rem;
+  text-align: center;
 }
-.Logo {
-  display: flex;
-  justify-content: center;
+
+h1:hover {
+  color: goldenrod;
 }
-.img {
-  margin-top: 20px;
+
+p {
+    text-align: center;
 }
+
