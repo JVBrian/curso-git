@@ -20,11 +20,4 @@ h1:hover {
 p {
     text-align: center;
 }
-.imagen {
-  display: flex;
-}
-
-.imagen img {
-  width: 75px;
-}
 
